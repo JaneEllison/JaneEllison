@@ -1,6 +1,8 @@
 ### Hi 👋
 [![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaneEllison&hide=stars,issues&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/JaneEllison/github-readme-stats)
 
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaneEllison&layout=compact&hide_title=1&card_width=300&theme=vision-friendly-dark" alt="Top language used in my repos" />
+
 <p>Find me on:</p>
   <!-- Gmail -->
   <a href="mailto:asekerich99@gmail.com" target="_blank"><img alt="Gmail"
